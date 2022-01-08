@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.preferredHighContrastColorTheme": "Default Dark+",
+    "workbench.settings.editor": "json",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+}
